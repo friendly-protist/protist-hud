@@ -16,7 +16,7 @@
 		"tall"			"120"
 		"visible"		"1"
 		"enabled"		"1"	
-		"HealthBonusPosAdj"	"70"
+		"HealthBonusPosAdj"	"35"
 		"HealthDeathWarning"	"0.49"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 	}	
@@ -87,26 +87,8 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"HudClassHealth"
-		"fgcolor"		"TanLight"
-	}		
-	"HealthValueShadow"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"77"
-		"xpos_minmode"	"60"
-		"ypos"			"53"	[$WIN32]
-		"ypos"			"55"	[$X360]
-		"zpos"			"5"
-		"wide"			"50"
-		"tall"			"18"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"%Health%"
-		"textAlignment"	"center"	
-		"font"			"HudClassHealth"
-		"fgcolor"		"0 0 0 255"
-	}		
+		"fgcolor"		"TanDark"
+	}								
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"
