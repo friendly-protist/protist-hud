@@ -1,4 +1,4 @@
-tf2basehud
+protist-hud
 ==========
 
-Team Fortress 2's original/basic HUD. Use this to start customizing your own.
+My TF2 Hud
